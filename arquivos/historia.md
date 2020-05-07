@@ -15,42 +15,26 @@ Os doze princípios podem ser divididos em 3 grupos:
 
 > Entregar frequentemente software funcionando, de poucas semanas a poucos meses, com preferência à menor escala de tempo.
 
-Software funcionando é a medida primária de progresso.
+> Software funcionando é a medida primária de progresso.
 
-Os processos ágeis promovem desenvolvimento
-sustentável. Os patrocinadores, desenvolvedores e
-usuários devem ser capazes de manter um ritmo
-constante indefinidamente.
+> Os processos ágeis promovem desenvolvimento sustentável. Os patrocinadores, desenvolvedores e usuários devem ser capazes de manter um ritmo constante indefinidamente.
 
 - Comunicação da equipe
-Pessoas de negócio e desenvolvedores devem trabalhar
-diariamente em conjunto por todo o projeto.
+> Pessoas de negócio e desenvolvedores devem trabalhar diariamente em conjunto por todo o projeto.
 
-O método mais eficiente e eficaz de transmitir
-informações para e entre uma equipe de desenvolvimento
-é através de conversa face a face.
+> O método mais eficiente e eficaz de transmitir informações para e entre uma equipe de desenvolvimento é através de conversa face a face.
 
-As melhores arquiteturas, requisitos e designs
-emergem de equipes auto-organizáveis.
+> As melhores arquiteturas, requisitos e designs emergem de equipes auto-organizáveis.
 
-Construa projetos em torno de indivíduos motivados.
-Dê a eles o ambiente e o suporte necessário
-e confie neles para fazer o trabalho.
+> Construa projetos em torno de indivíduos motivados. Dê a eles o ambiente e o suporte necessário e confie neles para fazer o trabalho.
 
-Em intervalos regulares, a equipe reflete sobre como
-se tornar mais eficaz e então refina e ajusta seu
-comportamento de acordo.
+> Em intervalos regulares, a equipe reflete sobre como se tornar mais eficaz e então refina e ajusta seu comportamento de acordo.
 
 - Excelência no design
-Contínua atenção à excelência técnica e bom design
-aumenta a agilidade.
+> Contínua atenção à excelência técnica e bom design aumenta a agilidade.
 
-Simplicidade--a arte de maximizar a quantidade de
-trabalho não realizado--é essencial.
+> Simplicidade--a arte de maximizar a quantidade de trabalho não realizado--é essencial.
 
-Mudanças nos requisitos são bem-vindas,
-mesmo tardiamente no desenvolvimento.
-Processos ágeis tiram vantagem das
-mudanças visando vantagem competitiva para o cliente.
+> Mudanças nos requisitos são bem-vindas, mesmo tardiamente no desenvolvimento. Processos ágeis tiram vantagem das mudanças visando vantagem competitiva para o cliente.
 
 
