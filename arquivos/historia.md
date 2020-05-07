@@ -11,13 +11,9 @@ Até a década de 1990 o foco era em processos que mantivessem o desenvolvimento
 [Página do Manifesto](http://agilemanifesto.org/iso/ptbr/manifesto.html).
 Os doze princípios podem ser divididos em 3 grupos:
 - Entregas regulares
-Nossa maior prioridade é satisfazer o cliente
-através da entrega contínua e adiantada
-de software com valor agregado.
+> Nossa maior prioridade é satisfazer o cliente através da entrega contínua e adiantada de software com valor agregado.
 
-Entregar frequentemente software funcionando,
-de poucas semanas a poucos meses,
-com preferência à menor escala de tempo.
+> Entregar frequentemente software funcionando, de poucas semanas a poucos meses, com preferência à menor escala de tempo.
 
 Software funcionando é a medida primária de progresso.
 
