@@ -5,7 +5,7 @@ Evolução do desenvolvimento de software por meio da colaboração de equipes a
 Planejamento adaptivo frequente e feedbacks, desenvolvimento evolutivo e entregas rápidas
 
 ## História do Ágil
-Até a década de 1990 o foco era em processos que mantivessem o desenvolvimento de software mais próximos do que havia sido pressuposto em termos de arquiteturas e requisitos. O Ágil, principalmente após o manifesto Ágil, se propôs a ser mais adaptivo as várias mudanças que o mundo dos negoócios tem sofrido com o passar do tempo.
+Até a década de 1990 o foco era em processos que mantivessem o desenvolvimento de software mais próximos do que havia sido pressuposto em termos de arquiteturas e requisitos. Principalmente após o manifesto Ágil, se propôs a ser mais adaptivo as várias mudanças que o mundo dos negócios tem sofrido com o passar do tempo.
 
 ## Manifesto Ágil
 [Página do Manifesto](http://agilemanifesto.org/iso/ptbr/manifesto.html).
