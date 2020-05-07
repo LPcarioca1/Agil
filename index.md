@@ -1,3 +1,3 @@
-## Bem vindo ao estudo de Ágil
+## Bem vindo ao estudo de Ágil e Scrum
 
-[O que é e a história do Ágil](arquivos/historia.md)
+[Acesse a página de Ágil](arquivos/historia.md)
